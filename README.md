@@ -7,20 +7,20 @@ Problems finished
 Easy
 ----
 
--	[roman-to-int](roman-to-int.md)
+-	[roman-to-int](Easy/roman-to-int.md)
 
 Medium
 ------
 
--	[simplify-path](simplify-path.md)
+-	[simplify-path](Medium/simplify-path.md)
 
--	[shuffle-array](shuffle-array.md)
+-	[shuffle-array](Medium/shuffle-array.md)
 
--	[binary-tree-level-order-traversal](binary-tree-level-order-traversal.md)
+-	[binary-tree-level-order-traversal](Medium/binary-tree-level-order-traversal.md)
 
--	[clone-graph](clone-graph.md)
+-	[clone-graph](Medium/clone-graph.md)
 
 Hard
 ----
 
--	[longest-valid-parenthesis](longest-valid-parenthesis.md)
+-	[longest-valid-parenthesis](Hard/longest-valid-parenthesis.md)
