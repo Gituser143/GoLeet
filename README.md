@@ -22,6 +22,8 @@ Medium
 
 -	[longest-substring-without-repeating-characters](Medium/longest-substring-without-repeating-characters.md)
 
+-	[validate-binary-tree-nodes](Medium/validate-binary-tree-nodes.md)
+
 Hard
 ----
 
