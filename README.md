@@ -20,6 +20,8 @@ Medium
 
 -	[clone-graph](Medium/clone-graph.md)
 
+-	[longest-substring-without-repeating-characters](Medium/longest-substring-without-repeating-characters.md)
+
 Hard
 ----
 
