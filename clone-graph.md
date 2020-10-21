@@ -13,7 +13,7 @@ Code
 // Recursive function which traverses neigbhours of given node
 func traverseNodes(node *Node, nodeMap map[int]*Node) map[int]*Node {
 	if node != nil {
-		// Iterate through neigbhours
+		// Iterate through neighbours
 		for _, neighbour := range node.Neighbors {
 			// if neighbour has not been visited, create clone and add to map
 			// Then traverse the neighbour itself
