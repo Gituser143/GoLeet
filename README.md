@@ -16,5 +16,7 @@ Medium
 
 -	[shuffle-array](shuffle-array.md)
 
+-	[binary-tree-level-order-traversal](binary-tree-level-order-traversal.md)
+
 Hard
 ----
