@@ -9,6 +9,8 @@ Easy
 
 -	[roman-to-int](Easy/roman-to-int.md)
 
+-	[two-sum](Easy/two-sum.md)
+
 Medium
 ------
 
