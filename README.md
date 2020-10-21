@@ -22,3 +22,5 @@ Medium
 
 Hard
 ----
+
+-	[longest-valid-parenthesis](longest-valid-parenthesis.md)
