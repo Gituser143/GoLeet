@@ -11,6 +11,8 @@ Easy
 
 -	[two-sum](Easy/two-sum.md)
 
+-	[reverse-integer](Easy/reverse-integer.md)
+
 Medium
 ------
 
@@ -45,4 +47,3 @@ To Add
 -	Median of Two Sorted Arrays
 -	Same Tree
 -	Add Two Numbers
--	Reverse Integer
