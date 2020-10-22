@@ -15,6 +15,8 @@ Easy
 
 -	[find-the-town-judge](Easy/find-the-town-judge.md)
 
+-	[palindrome-number](Easy/palindrome-number.md)
+
 Medium
 ------
 
