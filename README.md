@@ -51,9 +51,4 @@ To Add
 ======
 
 -	Longest Palindromic Substring
--	Palindrome Number
--	Find the Town Judge
 -	Binary Tree Inorder Traversal
--	Median of Two Sorted Arrays
--	Same Tree
--	Add Two Numbers
