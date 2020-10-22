@@ -33,6 +33,8 @@ Hard
 
 -	[longest-valid-parenthesis](Hard/longest-valid-parenthesis.md)
 
+-	[merge-k-sorted-lists](Hard/merge-k-sorted-lists.md)
+
 To Add
 ======
 
