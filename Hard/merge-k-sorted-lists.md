@@ -56,6 +56,7 @@ Solution in mind
 
 -	Merge is done as:
 
-	-	Iterate through each node in list
-	-	Find appropriate position of node in solution list
-	-	Move node to solution list.
+	-	While lists are non empty.
+	-	Compare heads of both lists.
+	-	Make merged list point to lower.
+	-	Increment node pointer of lower.
