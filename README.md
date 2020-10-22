@@ -37,6 +37,8 @@ Medium
 Hard
 ----
 
+-	[median-of-two-sorted-array](median-of-two-sorted-array.md)
+
 -	[longest-valid-parenthesis](Hard/longest-valid-parenthesis.md)
 
 -	[merge-k-sorted-lists](Hard/merge-k-sorted-lists.md)
