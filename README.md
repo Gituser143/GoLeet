@@ -30,6 +30,8 @@ Medium
 
 -	[maximal-network-rank](Medium/maximal-network-rank.md)
 
+-	[add-two-numbers](Medium/add-two-numbers.md)
+
 Hard
 ----
 
