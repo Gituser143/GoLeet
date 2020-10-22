@@ -20,27 +20,27 @@ func mergeKLists(lists []*ListNode) *ListNode {
 	solutionList := lists[0]
 
 	for i := 1; i < len(lists); i++ {
-
-		for lists[i] != nil {
-			listNode := lists[i]
-			var prev *ListNode = nil
-			solutionNode := solutionList
-
-			for solutionNode != nil && solutionNode.Val < listNode.Val {
-				prev = solutionNode
-				solutionNode = solutionNode.Next
-			}
-
-			lists[i] = lists[i].Next
-
-			if prev == nil {
-				listNode.Next = solutionNode
-				solutionList = listNode
+		mergedSol := &ListNode{}
+		temp := mergedSol
+		for lists[i] != nil && solutionList != nil {
+			if lists[i].Val > solutionList.Val {
+				mergedSol.Next = solutionList
+				solutionList = solutionList.Next
+				mergedSol = mergedSol.Next
 			} else {
-				prev.Next = listNode
-				listNode.Next = solutionNode
+				mergedSol.Next = lists[i]
+				lists[i] = lists[i].Next
+				mergedSol = mergedSol.Next
 			}
 		}
+
+		if lists[i] == nil {
+			mergedSol.Next = solutionList
+		} else if solutionList == nil {
+			mergedSol.Next = lists[i]
+		}
+
+		solutionList = temp.Next
 	}
 
 	return solutionList
