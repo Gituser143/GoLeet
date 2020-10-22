@@ -32,6 +32,8 @@ Medium
 
 -	[add-two-numbers](Medium/add-two-numbers.md)
 
+-	[same-tree](Medium/same-tree.md)
+
 Hard
 ----
 
