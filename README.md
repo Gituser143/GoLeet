@@ -13,6 +13,8 @@ Easy
 
 -	[reverse-integer](Easy/reverse-integer.md)
 
+-	[find-the-town-judge](Easy/find-the-town-judge.md)
+
 Medium
 ------
 
