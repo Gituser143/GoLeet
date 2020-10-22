@@ -60,3 +60,4 @@ Solution in mind
 	-	Compare heads of both lists.
 	-	Make merged list point to lower.
 	-	Increment node pointer of lower.
+	-	Move merge pointer to new node.
