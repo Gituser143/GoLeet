@@ -40,6 +40,8 @@ Medium
 
 -	[zigzag-conversion](Medium/zigzag-conversion.md)
 
+-	[restore-ip-addresses](Medium/restore-ip-addresses.md)
+
 Hard
 ----
 
