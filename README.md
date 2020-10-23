@@ -38,6 +38,8 @@ Medium
 
 -	[same-tree](Medium/same-tree.md)
 
+-	[zigzag-conversion](Medium/zigzag-conversion.md)
+
 Hard
 ----
 
