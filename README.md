@@ -42,6 +42,8 @@ Medium
 
 -	[restore-ip-addresses](Medium/restore-ip-addresses.md)
 
+-	[longest-palindromic-substring](Medium/longest-palindromic-substring.md)
+
 Hard
 ----
 
@@ -56,5 +58,4 @@ Hard
 To Add
 ======
 
--	Longest Palindromic Substring
 -	Binary Tree Inorder Traversal
