@@ -44,6 +44,8 @@ Medium
 
 -	[longest-palindromic-substring](Medium/longest-palindromic-substring.md)
 
+-	[binary-tree-inorder-traversal](Medium/binary-tree-inorder-traversal.md)
+
 Hard
 ----
 
@@ -54,8 +56,3 @@ Hard
 -	[merge-k-sorted-lists](Hard/merge-k-sorted-lists.md)
 
 -	[recover-binary-search-tree](Hard/recover-binary-search-tree.md)
-
-To Add
-======
-
--	Binary Tree Inorder Traversal
