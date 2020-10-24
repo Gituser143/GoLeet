@@ -51,6 +51,8 @@ Hard
 
 -	[merge-k-sorted-lists](Hard/merge-k-sorted-lists.md)
 
+-	[recover-binary-search-tree](Hard/recover-binary-search-tree.md)
+
 To Add
 ======
 
