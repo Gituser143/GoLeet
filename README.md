@@ -48,6 +48,8 @@ Medium
 
 -	[binary-tree-inorder-traversal](Medium/binary-tree-inorder-traversal.md)
 
+-	[multiply-strings](Medium/multiply-strings.md)
+
 Hard
 ----
 
