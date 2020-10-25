@@ -17,6 +17,8 @@ Easy
 
 -	[palindrome-number](Easy/palindrome-number.md)
 
+-	[longest-common-prefix](Easy/longest-common-prefix.md)
+
 Medium
 ------
 
