@@ -19,6 +19,8 @@ Easy
 
 -	[longest-common-prefix](Easy/longest-common-prefix.md)
 
+-	[merge-two-sorted-lists](Easy/merge-two-sorted-lists.md)
+
 Medium
 ------
 
