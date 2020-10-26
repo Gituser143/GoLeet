@@ -21,6 +21,8 @@ Easy
 
 -	[merge-two-sorted-lists](Easy/merge-two-sorted-lists.md)
 
+-	[merge-sorted-array](Easy/merge-sorted-array.md)
+
 Medium
 ------
 
