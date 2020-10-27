@@ -54,6 +54,8 @@ Medium
 
 -	[multiply-strings](Medium/multiply-strings.md)
 
+-	[binary-tree-preorder-traversal](Medium/binary-tree-preorder-traversal.md)
+
 Hard
 ----
 
