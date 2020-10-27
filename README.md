@@ -23,6 +23,8 @@ Easy
 
 -	[merge-sorted-array](Easy/merge-sorted-array.md)
 
+-	[path-sum](Easy/path-sum.md)
+
 Medium
 ------
 
