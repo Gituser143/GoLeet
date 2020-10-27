@@ -56,6 +56,8 @@ Medium
 
 -	[binary-tree-preorder-traversal](Medium/binary-tree-preorder-traversal.md)
 
+-	[binary-tree-postorder-traversal](Medium/binary-tree-postorder-traversal.md)
+
 Hard
 ----
 
