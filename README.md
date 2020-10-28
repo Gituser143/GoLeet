@@ -1,6 +1,12 @@
 GoLeet
 ======
 
+My collection of leet code problems solved in GoLang!
+
+| [Easy](##Easy) | [Medium](##Medium) | [Hard](##Hard) |
+|----------------|--------------------|----------------|
+| 11             | 17                 | 4              |
+
 Problems finished
 =================
 
