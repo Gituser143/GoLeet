@@ -62,6 +62,8 @@ Medium
 
 -	[path-sum-ii](Medium/path-sum-ii.md)
 
+-	[path-sum-iii](Medium/path-sum-iii.md)
+
 Hard
 ----
 
