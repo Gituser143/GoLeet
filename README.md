@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 11            | 17                | 5             |
+| 11            | 18                | 5             |
 
 Problems finished
 =================
@@ -71,6 +71,8 @@ Medium
 -	[path-sum-ii](Medium/path-sum-ii.md)
 
 -	[path-sum-iii](Medium/path-sum-iii.md)
+
+-	[sum-root-to-leaf-numbers](Medium/sum-root-to-leaf-numbers.md)
 
 Hard
 ----
