@@ -25,6 +25,8 @@ Easy
 
 -	[path-sum](Easy/path-sum.md)
 
+-	[binary-tree-paths](Easy/binary-tree-paths.md)
+
 Medium
 ------
 
