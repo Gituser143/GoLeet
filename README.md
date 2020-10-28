@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 11            | 17                | 4             |
+| 11            | 17                | 5             |
 
 Problems finished
 =================
@@ -82,3 +82,5 @@ Hard
 -	[merge-k-sorted-lists](Hard/merge-k-sorted-lists.md)
 
 -	[recover-binary-search-tree](Hard/recover-binary-search-tree.md)
+
+-	[binary-tree-maximum-path-sum](Hard/binary-tree-maximum-path-sum.md)
