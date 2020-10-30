@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 13            | 19                | 5             |
+| 13            | 20                | 5             |
 
 Problems finished
 =================
@@ -79,6 +79,8 @@ Medium
 -	[sum-root-to-leaf-numbers](Medium/sum-root-to-leaf-numbers.md)
 
 -	[string-to-integer-atoi](Medium/string-to-integer-atoi.md)
+
+-	[container-with-most-water](Medium/container-with-most-water.md)
 
 Hard
 ----
