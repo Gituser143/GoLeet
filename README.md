@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 12            | 18                | 5             |
+| 13            | 18                | 5             |
 
 Problems finished
 =================
@@ -34,6 +34,8 @@ Easy
 -	[binary-tree-paths](Easy/binary-tree-paths.md)
 
 -	[valid-parentheses](Easy/valid-parentheses.md)
+
+-	[symmetric-tree](Easy/symmetric-tree.md)
 
 Medium
 ------
