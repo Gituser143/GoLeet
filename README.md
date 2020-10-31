@@ -82,6 +82,8 @@ Medium
 
 -	[container-with-most-water](Medium/container-with-most-water.md)
 
+-	[course-schedule](Medium/course-schedule.md)
+
 Hard
 ----
 
