@@ -73,3 +73,5 @@ Solution in mind
 -	Visted is to keep track of previously visited nodes. The recursion stack is required if two nodes lead to the same node but do not form a cycle.
 
 -	We need a recursion stack because if a neighbour was visited, it need not be from the current path we traverse on. Only if the neighbour was visited and it exists in recursion stack, can we say that a cycle exists.
+
+Algo: https://www.geeksforgeeks.org/detect-cycle-in-a-graph/
