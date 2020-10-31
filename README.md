@@ -84,6 +84,8 @@ Medium
 
 -	[course-schedule](Medium/course-schedule.md)
 
+-	[course-schedule-ii](Medium/course-schedule-ii.md)
+
 Hard
 ----
 
@@ -96,3 +98,8 @@ Hard
 -	[recover-binary-search-tree](Hard/recover-binary-search-tree.md)
 
 -	[binary-tree-maximum-path-sum](Hard/binary-tree-maximum-path-sum.md)
+
+TODO
+====
+
+-	course-schedule-iii
