@@ -86,6 +86,8 @@ Medium
 
 -	[course-schedule-ii](Medium/course-schedule-ii.md)
 
+-	[network-delay-time](Medium/network-delay-time.md)
+
 Hard
 ----
 
