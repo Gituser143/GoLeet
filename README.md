@@ -88,6 +88,8 @@ Medium
 
 -	[network-delay-time](Medium/network-delay-time.md)
 
+-	[minimum-height-trees](Medium/minimum-height-trees.md)
+
 Hard
 ----
 
