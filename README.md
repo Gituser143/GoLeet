@@ -37,6 +37,8 @@ Easy
 
 -	[symmetric-tree](Easy/symmetric-tree.md)
 
+-	[majority-element](Easy/majority-element.md)
+
 Medium
 ------
 
