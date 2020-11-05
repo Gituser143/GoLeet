@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 14            | 25                | 5             |
+| 14            | 26                | 5             |
 
 Problems finished
 =================
@@ -93,6 +93,8 @@ Medium
 -	[minimum-height-trees](Medium/minimum-height-trees.md)
 
 -	[3sum](Medium/3sum.md)
+
+-	[remove-nth-node-from-end-of-list](Medium/remove-nth-node-from-end-of-list)
 
 Hard
 ----
