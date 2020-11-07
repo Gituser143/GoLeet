@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 15            | 26                | 5             |
+| 15            | 26                | 6             |
 
 Problems finished
 =================
@@ -110,6 +110,8 @@ Hard
 -	[recover-binary-search-tree](Hard/recover-binary-search-tree.md)
 
 -	[binary-tree-maximum-path-sum](Hard/binary-tree-maximum-path-sum.md)
+
+-	[trapping-rain-water](Hard/trapping-rain-water.md)
 
 TODO
 ====
