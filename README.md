@@ -113,6 +113,8 @@ Hard
 
 -	[trapping-rain-water](Hard/trapping-rain-water.md)
 
+-	[regular-expression-matching](Hard/regular-expression-matching.md)
+
 TODO
 ====
 
