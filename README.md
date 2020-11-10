@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 16            | 27                | 7             |
+| 18            | 27                | 7             |
 
 Problems finished
 =================
@@ -42,6 +42,10 @@ Easy
 -	[goat-latin](Easy/goat-latin.md)
 
 -	[length-of-last-word](Easy/length-of-last-word.md)
+
+-	[convert-binary-number-in-a-linked-list-to-integer](Easy/convert-binary-number-in-a-linked-list-to-integer.md)
+
+-	[flipping-an-image](Easy/flipping-an-image.md)
 
 Medium
 ------
