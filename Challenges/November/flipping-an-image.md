@@ -57,3 +57,12 @@ func flipAndInvertImage(A [][]int) [][]int {
 	return A
 }
 ```
+
+Solution in mind
+================
+
+-	Iterate through each row of image.
+
+-	Reverse each row.
+
+-	While reversing row, flip elements.
