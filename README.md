@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 15            | 27                | 7             |
+| 16            | 27                | 7             |
 
 Problems finished
 =================
@@ -40,6 +40,8 @@ Easy
 -	[majority-element](Easy/majority-element.md)
 
 -	[goat-latin](Easy/goat-latin.md)
+
+-	[length-of-last-word](Easy/length-of-last-word.md)
 
 Medium
 ------
