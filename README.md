@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 19            | 27                | 7             |
+| 19            | 28                | 7             |
 
 Problems finished
 =================
@@ -107,6 +107,8 @@ Medium
 -	[remove-nth-node-from-end-of-list](Medium/remove-nth-node-from-end-of-list.md)
 
 -	[3sum-closest](Medium/3sum-closest.md)
+
+-	[redundant-connection](Medium/redundant-connection.md)
 
 Hard
 ----
