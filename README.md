@@ -118,6 +118,8 @@ Medium
 
 -	[populating-next-right-pointers-in-each-node-ii](Medium/populating-next-right-pointers-in-each-node-ii.md)
 
+-	[word-frequency](Medium/word-frequency.md)
+
 Hard
 ----
 
