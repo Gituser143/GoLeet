@@ -49,6 +49,10 @@ Easy
 
 -	[remove-element](Easy/remove-element.md)
 
+-	[tenth-line](Easy/tenth-line.md)
+
+-	[valid-phone-numbers](Easy/valid-phone-numbers.md)
+
 Medium
 ------
 
