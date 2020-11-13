@@ -110,6 +110,8 @@ Medium
 
 -	[redundant-connection](Medium/redundant-connection.md)
 
+-	[populating-next-right-pointers-in-each-node](Medium/populating-next-right-pointers-in-each-node.md)
+
 Hard
 ----
 
