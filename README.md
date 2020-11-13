@@ -112,6 +112,8 @@ Medium
 
 -	[populating-next-right-pointers-in-each-node](Medium/populating-next-right-pointers-in-each-node.md)
 
+-	[populating-next-right-pointers-in-each-node-ii](Medium/populating-next-right-pointers-in-each-node-ii.md)
+
 Hard
 ----
 
