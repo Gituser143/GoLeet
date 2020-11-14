@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 20            | 32                | 7             |
+| 20            | 33                | 7             |
 
 Problems finished
 =================
@@ -121,6 +121,8 @@ Medium
 -	[word-frequency](Medium/word-frequency.md)
 
 -	[valid-sudoku](Medium/valid-sudoku.md)
+
+-	[4sum](Medium/4sum.md)
 
 Hard
 ----
