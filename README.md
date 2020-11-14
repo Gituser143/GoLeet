@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 20            | 33                | 7             |
+| 20            | 33                | 8             |
 
 Problems finished
 =================
@@ -140,6 +140,8 @@ Hard
 -	[trapping-rain-water](Hard/trapping-rain-water.md)
 
 -	[regular-expression-matching](Hard/regular-expression-matching.md)
+
+-	[poor-pigs](Hard/poor-pigs.md)
 
 TODO
 ====
