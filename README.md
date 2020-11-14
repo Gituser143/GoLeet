@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 20            | 31                | 7             |
+| 20            | 32                | 7             |
 
 Problems finished
 =================
@@ -119,6 +119,8 @@ Medium
 -	[populating-next-right-pointers-in-each-node-ii](Medium/populating-next-right-pointers-in-each-node-ii.md)
 
 -	[word-frequency](Medium/word-frequency.md)
+
+-	[valid-sudoku](Medium/valid-sudoku.md)
 
 Hard
 ----
