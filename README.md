@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 20            | 33                | 8             |
+| 20            | 34                | 8             |
 
 Problems finished
 =================
@@ -123,6 +123,8 @@ Medium
 -	[valid-sudoku](Medium/valid-sudoku.md)
 
 -	[4sum](Medium/4sum.md)
+
+-	[letter-combinations-of-a-phone-number](Medium/letter-combinations-of-a-phone-number.md)
 
 Hard
 ----
