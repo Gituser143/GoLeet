@@ -53,6 +53,8 @@ Easy
 
 -	[valid-phone-numbers](Easy/valid-phone-numbers.md)
 
+-	[license-key-formatting](Easy/license-key-formatting.md)
+
 Medium
 ------
 
@@ -127,6 +129,8 @@ Medium
 -	[letter-combinations-of-a-phone-number](Medium/letter-combinations-of-a-phone-number.md)
 
 -	[rotate-image](Medium/rotate-image.md)
+
+-	[longest-absolute-file-path](Medium/longest-absolute-file-path.md)
 
 Hard
 ----
