@@ -126,6 +126,8 @@ Medium
 
 -	[letter-combinations-of-a-phone-number](Medium/letter-combinations-of-a-phone-number.md)
 
+-	[rotate-image](Medium/rotate-image.md)
+
 Hard
 ----
 
