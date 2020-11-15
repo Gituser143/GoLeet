@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 21            | 36                | 8             |
+| 22            | 36                | 8             |
 
 Problems finished
 =================
@@ -54,6 +54,8 @@ Easy
 -	[valid-phone-numbers](Easy/valid-phone-numbers.md)
 
 -	[license-key-formatting](Easy/license-key-formatting.md)
+
+-	[range-sum-of-bst](Easy/range-sum-of-bst.md)
 
 Medium
 ------
