@@ -3,13 +3,18 @@ Code
 
 ```go
 func twoSum(nums []int, target int) []int {
-	for i, _ := range nums {
-		for j := i + 1; j < len(nums); j++ {
-			if nums[i]+nums[j] == target {
-				return []int{i, j}
-			}
+	compliment := make(map[int]int, 0)
+
+	for i, val := range nums {
+		com := target - val
+
+		if j, ok := compliment[com]; ok {
+			return []int{i, j}
 		}
+
+		compliment[val] = i
 	}
+
 	return []int{0, 0}
 }
 ```
@@ -17,6 +22,8 @@ func twoSum(nums []int, target int) []int {
 Solution in mind
 ================
 
--	Simple brute force.
--	Iterate from 0 to n, iterate a second number from current index + 1 to n.
--	Check if numbers at both index sum to required number.
+-	We make use of map to store index: number.
+
+-	We iterate through the array and check to see if we have it's compliment (target - current). If yes, we return the indices of these two number.
+
+-	If the compliment does not exist, we just add the current number to the map.
