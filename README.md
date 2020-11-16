@@ -134,6 +134,8 @@ Medium
 
 -	[longest-absolute-file-path](Medium/longest-absolute-file-path.md)
 
+-	[longest-mountain-in-array](Medium/longest-mountain-in-array.md)
+
 Hard
 ----
 
