@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 23            | 38                | 8             |
+| 23            | 39                | 8             |
 
 Problems finished
 =================
@@ -139,6 +139,8 @@ Medium
 -	[longest-mountain-in-array](Medium/longest-mountain-in-array.md)
 
 -	[mirror-reflection](Medium/mirror-reflection.md)
+
+-	[merge-intervals](Medium/merge-intervals.md)
 
 Hard
 ----
