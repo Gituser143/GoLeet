@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 23            | 40                | 8             |
+| 24            | 40                | 8             |
 
 Problems finished
 =================
@@ -58,6 +58,8 @@ Easy
 -	[range-sum-of-bst](Easy/range-sum-of-bst.md)
 
 -	[two-sum-ii-input-array-is-sorted](Easy/two-sum-ii-input-array-is-sorted.md)
+
+-	[remove-duplicates-from-sorted-array](Easy/remove-duplicates-from-sorted-array.md)
 
 Medium
 ------
