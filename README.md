@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 24            | 42                | 8             |
+| 24            | 43                | 8             |
 
 Problems finished
 =================
@@ -149,6 +149,8 @@ Medium
 -	[search-in-rotated-sorted-array](Medium/search-in-rotated-sorted-array.md)
 
 -	[search-in-rotated-sorted-array-ii](Medium/search-in-rotated-sorted-array-ii.md)
+
+-	[remove-comments](Medium/remove-comments.md)
 
 Hard
 ----
