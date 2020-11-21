@@ -61,6 +61,8 @@ Easy
 
 -	[remove-duplicates-from-sorted-array](Easy/remove-duplicates-from-sorted-array.md)
 
+-	[trim-a-binary-search-tree](Easy/trim-a-binary-search-tree.md)
+
 Medium
 ------
 
