@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 25            | 43                | 8             |
+| 26            | 43                | 8             |
 
 Problems finished
 =================
@@ -62,6 +62,8 @@ Easy
 -	[remove-duplicates-from-sorted-array](Easy/remove-duplicates-from-sorted-array.md)
 
 -	[trim-a-binary-search-tree](Easy/trim-a-binary-search-tree.md)
+
+-	[unique-morse-code-words](Easy/unique-morse-code-words.md)
 
 Medium
 ------
