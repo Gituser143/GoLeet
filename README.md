@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 26            | 43                | 8             |
+| 26            | 44                | 8             |
 
 Problems finished
 =================
@@ -155,6 +155,8 @@ Medium
 -	[search-in-rotated-sorted-array-ii](Medium/search-in-rotated-sorted-array-ii.md)
 
 -	[remove-comments](Medium/remove-comments.md)
+
+-	[count-servers-that-communicate](Medium/count-servers-that-communicate.md)
 
 Hard
 ----
