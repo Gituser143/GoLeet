@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 26            | 44                | 8             |
+| 26            | 44                | 9             |
 
 Problems finished
 =================
@@ -176,6 +176,8 @@ Hard
 -	[regular-expression-matching](Hard/regular-expression-matching.md)
 
 -	[poor-pigs](Hard/poor-pigs.md)
+
+-	[sliding-window-maximum](Hard/sliding-window-maximum.md)
 
 TODO
 ====
