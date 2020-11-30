@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 26            | 44                | 9             |
+| 26            | 44                | 10            |
 
 Problems finished
 =================
@@ -178,6 +178,8 @@ Hard
 -	[poor-pigs](Hard/poor-pigs.md)
 
 -	[sliding-window-maximum](Hard/sliding-window-maximum.md)
+
+-	[the-skyline-problem](Hard/the-skyline-problem.md)
 
 TODO
 ====
