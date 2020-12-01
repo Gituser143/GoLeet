@@ -69,6 +69,8 @@ Easy
 
 -	[minimum-depth-of-binary-tree](Easy/minimum-depth-of-binary-tree.md)
 
+-	[maximum-depth-of-n-ary-tree](Easy/maximum-depth-of-n-ary-tree.md)
+
 Medium
 ------
 
