@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 27            | 44                | 10            |
+| 29            | 45                | 10            |
 
 Problems finished
 =================
