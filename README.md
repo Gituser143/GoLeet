@@ -164,6 +164,8 @@ Medium
 
 -	[count-servers-that-communicate](Medium/count-servers-that-communicate.md)
 
+-	[linked-list-random-node](Medium/linked-list-random-node.md)
+
 Hard
 ----
 
