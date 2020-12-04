@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 30            | 46                | 10            |
+| 30            | 47                | 10            |
 
 Problems finished
 =================
@@ -169,6 +169,8 @@ Medium
 -	[linked-list-random-node](Medium/linked-list-random-node.md)
 
 -	[top-k-frequent-elements](Medium/top-k-frequent-elements.md)
+
+-	[the-kth-factor-of-n](Medium/the-kth-factor-of-n.md)
 
 Hard
 ----
