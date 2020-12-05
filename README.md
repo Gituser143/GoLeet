@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 30            | 47                | 10            |
+| 31            | 47                | 10            |
 
 Problems finished
 =================
@@ -72,6 +72,8 @@ Easy
 -	[maximum-depth-of-n-ary-tree](Easy/maximum-depth-of-n-ary-tree.md)
 
 -	[increasing-order-search-tree](Easy/increasing-order-search-tree.md)
+
+-	[can-place-flowers](Easy/can-place-flowers.md)
 
 Medium
 ------
