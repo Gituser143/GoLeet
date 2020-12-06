@@ -75,6 +75,8 @@ Easy
 
 -	[can-place-flowers](Easy/can-place-flowers.md)
 
+-	[best-time-to-buy-and-sell-stock](Easy/best-time-to-buy-and-sell-stock.md)
+
 Medium
 ------
 
