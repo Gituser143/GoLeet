@@ -176,6 +176,8 @@ Medium
 
 -	[the-kth-factor-of-n](Medium/the-kth-factor-of-n.md)
 
+-	[pairs-of-songs-with-total-durations-divisible-by-60](Medium/pairs-of-songs-with-total-durations-divisible-by-60.md)
+
 Hard
 ----
 
