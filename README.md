@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 32            | 48                | 10            |
+| 33            | 48                | 10            |
 
 Problems finished
 =================
@@ -76,6 +76,8 @@ Easy
 -	[can-place-flowers](Easy/can-place-flowers.md)
 
 -	[best-time-to-buy-and-sell-stock](Easy/best-time-to-buy-and-sell-stock.md)
+
+-	[valid-mountain-array](Easy/valid-mountain-array.md)
 
 Medium
 ------
