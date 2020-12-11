@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 33            | 48                | 10            |
+| 33            | 49                | 10            |
 
 Problems finished
 =================
@@ -179,6 +179,8 @@ Medium
 -	[the-kth-factor-of-n](Medium/the-kth-factor-of-n.md)
 
 -	[pairs-of-songs-with-total-durations-divisible-by-60](Medium/pairs-of-songs-with-total-durations-divisible-by-60.md)
+
+-	[remove-duplicates-from-sorted-array-ii](Medium/remove-duplicates-from-sorted-array-ii.md)
 
 Hard
 ----
