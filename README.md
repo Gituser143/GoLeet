@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 33            | 49                | 10            |
+| 33            | 51                | 10            |
 
 Problems finished
 =================
@@ -181,6 +181,10 @@ Medium
 -	[pairs-of-songs-with-total-durations-divisible-by-60](Medium/pairs-of-songs-with-total-durations-divisible-by-60.md)
 
 -	[remove-duplicates-from-sorted-array-ii](Medium/remove-duplicates-from-sorted-array-ii.md)
+
+-	[smallest-subtree-with-all-the-deepest-nodes](Medium/smallest-subtree-with-all-the-deepest-nodes.md)
+
+-	[lowest-common-ancestor-of-deepest-leaves](Medium/lowest-common-ancestor-of-deepest-leaves.md)
 
 Hard
 ----
