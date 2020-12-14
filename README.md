@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 33            | 51                | 10            |
+| 34            | 51                | 10            |
 
 Problems finished
 =================
@@ -78,6 +78,8 @@ Easy
 -	[best-time-to-buy-and-sell-stock](Easy/best-time-to-buy-and-sell-stock.md)
 
 -	[valid-mountain-array](Easy/valid-mountain-array.md)
+
+-	[implement-strstr](Easy/implement-strstr.md)
 
 Medium
 ------
