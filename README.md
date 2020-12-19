@@ -223,5 +223,3 @@ TODO
 ====
 
 -	course-schedule-iii
-
--	increasing-triplet-subsequence
