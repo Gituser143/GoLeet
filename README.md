@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 34            | 52                | 10            |
+| 35            | 54                | 10            |
 
 Problems finished
 =================
@@ -80,6 +80,8 @@ Easy
 -	[valid-mountain-array](Easy/valid-mountain-array.md)
 
 -	[implement-strstr](Easy/implement-strstr.md)
+
+-	[squares-of-a-sorted-array](Medium/squares-of-a-sorted-array.md)
 
 Medium
 ------
@@ -188,6 +190,12 @@ Medium
 
 -	[lowest-common-ancestor-of-deepest-leaves](Medium/lowest-common-ancestor-of-deepest-leaves.md)
 
+-	[validate-binary-search-tree](Medium/validate-binary-search-tree.md)
+
+-	[4sum-ii](Medium/4sum-ii.md)
+
+-	[increasing-triplet-subsequence](Medium/increasing-triplet-subsequence.md)
+
 Hard
 ----
 
@@ -215,3 +223,5 @@ TODO
 ====
 
 -	course-schedule-iii
+
+-	increasing-triplet-subsequence
