@@ -198,6 +198,8 @@ Medium
 
 -	[decoded-string-at-index](Medium/decoded-string-at-index.md)
 
+-	[smallest-range-ii](Medium/smallest-range-ii.md)
+
 -	[swap-nodes-in-pairs](medium/swap-nodes-in-pairs.md)
 
 Hard
