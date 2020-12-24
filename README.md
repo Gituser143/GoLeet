@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 35            | 56                | 10            |
+| 35            | 58                | 10            |
 
 Problems finished
 =================
@@ -197,6 +197,8 @@ Medium
 -	[increasing-triplet-subsequence](Medium/increasing-triplet-subsequence.md)
 
 -	[decoded-string-at-index](Medium/decoded-string-at-index.md)
+
+-	[swap-nodes-in-pairs](medium/swap-nodes-in-pairs.md)
 
 Hard
 ----
