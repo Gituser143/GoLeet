@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 35            | 58                | 10            |
+| 35            | 59                | 10            |
 
 Problems finished
 =================
@@ -200,7 +200,9 @@ Medium
 
 -	[smallest-range-ii](Medium/smallest-range-ii.md)
 
--	[swap-nodes-in-pairs](medium/swap-nodes-in-pairs.md)
+-	[swap-nodes-in-pairs](Medium/swap-nodes-in-pairs.md)
+
+-	[diagonal-traverse](Medium/diagonal-traverse.md)
 
 Hard
 ----
