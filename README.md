@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 35            | 59                | 10            |
+| 35            | 60                | 10            |
 
 Problems finished
 =================
@@ -203,6 +203,8 @@ Medium
 -	[swap-nodes-in-pairs](Medium/swap-nodes-in-pairs.md)
 
 -	[diagonal-traverse](Medium/diagonal-traverse.md)
+
+-	[pseudo-palindromic-paths-in-a-binary-tree](Medium/pseudo-palindromic-paths-in-a-binary-tree.md)
 
 Hard
 ----
