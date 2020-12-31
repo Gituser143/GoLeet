@@ -206,6 +206,8 @@ Medium
 
 -	[pseudo-palindromic-paths-in-a-binary-tree](Medium/pseudo-palindromic-paths-in-a-binary-tree.md)
 
+-	[game-of-life](Medium/game-of-life.md)
+
 Hard
 ----
 
