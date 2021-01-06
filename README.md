@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 36            | 62                | 10            |
+| 37            | 62                | 10            |
 
 Problems finished
 =================
@@ -83,9 +83,11 @@ Easy
 
 -	[implement-strstr](Easy/implement-strstr.md)
 
--	[squares-of-a-sorted-array](Medium/squares-of-a-sorted-array.md)
+-	[squares-of-a-sorted-array](Easy/squares-of-a-sorted-array.md)
 
--	[remove-duplicates-from-sorted-list](Medium/remove-duplicates-from-sorted-list.md)
+-	[remove-duplicates-from-sorted-list](Easy/remove-duplicates-from-sorted-list.md)
+
+-	[kth-missing-positive-number](Easy/kth-missing-positive-number.md)
 
 Medium
 ------
