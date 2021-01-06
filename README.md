@@ -3,6 +3,8 @@ GoLeet
 
 My collection of leet code problems solved in GoLang!
 
+Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
+
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
 | 36            | 62                | 10            |
