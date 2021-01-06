@@ -5,7 +5,7 @@ My collection of leet code problems solved in GoLang!
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 35            | 60                | 10            |
+| 36            | 62                | 10            |
 
 Problems finished
 =================
@@ -82,6 +82,8 @@ Easy
 -	[implement-strstr](Easy/implement-strstr.md)
 
 -	[squares-of-a-sorted-array](Medium/squares-of-a-sorted-array.md)
+
+-	[remove-duplicates-from-sorted-list](Medium/remove-duplicates-from-sorted-list.md)
 
 Medium
 ------
@@ -207,6 +209,8 @@ Medium
 -	[pseudo-palindromic-paths-in-a-binary-tree](Medium/pseudo-palindromic-paths-in-a-binary-tree.md)
 
 -	[game-of-life](Medium/game-of-life.md)
+
+-	[remove-duplicates-from-sorted-list-ii](Medium/remove-duplicates-from-sorted-list-ii.md)
 
 Hard
 ----
