@@ -89,6 +89,8 @@ Easy
 
 -	[kth-missing-positive-number](Easy/kth-missing-positive-number.md)
 
+-	[check-if-two-string-arrays-are-equivalent](Easy/check-if-two-string-arrays-are-equivalent.md)
+
 Medium
 ------
 
