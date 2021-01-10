@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 38            | 62                | 10            |
+| 38            | 62                | 11            |
 
 Problems finished
 =================
@@ -240,6 +240,8 @@ Hard
 -	[sliding-window-maximum](Hard/sliding-window-maximum.md)
 
 -	[the-skyline-problem](Hard/the-skyline-problem.md)
+
+-	[create-sorted-array-through-instructions](Hard/create-sorted-array-through-instructions.md)
 
 TODO
 ====
