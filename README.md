@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 38            | 63                | 11            |
+| 38            | 64                | 11            |
 
 Problems finished
 =================
@@ -219,6 +219,8 @@ Medium
 -	[remove-duplicates-from-sorted-list-ii](Medium/remove-duplicates-from-sorted-list-ii.md)
 
 -	[boats-to-save-people](Medium/boats-to-save-people.md)
+
+-	[max-number-of-k-sum-pairs](Medium/max-number-of-k-sum-pairs.md)
 
 Hard
 ----
