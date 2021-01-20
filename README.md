@@ -93,6 +93,8 @@ Easy
 
 -	[binary-tree-level-order-traversal-ii](Easy/binary-tree-level-order-traversal-ii.md)
 
+-	[average-of-levels-in-binary-tree](Easy/average-of-levels-in-binary-tree.md)
+
 Medium
 ------
 
