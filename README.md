@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 40            | 65                | 11            |
+| 40            | 66                | 11            |
 
 Problems finished
 =================
@@ -227,6 +227,8 @@ Medium
 -	[max-number-of-k-sum-pairs](Medium/max-number-of-k-sum-pairs.md)
 
 -	[kth-largest-element-in-an-array](Medium/kth-largest-element-in-an-array.md)
+
+-	[find-the-most-competitive-subsequence](Medium/find-the-most-competitive-subsequence.md)
 
 Hard
 ----
