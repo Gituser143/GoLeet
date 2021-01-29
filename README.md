@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 40            | 67                | 11            |
+| 40            | 68                | 12            |
 
 Problems finished
 =================
@@ -256,6 +256,8 @@ Hard
 -	[the-skyline-problem](Hard/the-skyline-problem.md)
 
 -	[create-sorted-array-through-instructions](Hard/create-sorted-array-through-instructions.md)
+
+-	[vertical-order-traversal-of-a-binary-tree](Hard/vertical-order-traversal-of-a-binary-tree.md)
 
 TODO
 ====
