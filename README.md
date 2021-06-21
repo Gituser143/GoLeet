@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 40            | 68                | 12            |
+| 41            | 68                | 12            |
 
 Problems finished
 =================
@@ -94,6 +94,8 @@ Easy
 -	[binary-tree-level-order-traversal-ii](Easy/binary-tree-level-order-traversal-ii.md)
 
 -	[average-of-levels-in-binary-tree](Easy/average-of-levels-in-binary-tree.md)
+
+-	[pascals-triangle](Easy/pascals-triangle.md)
 
 Medium
 ------
