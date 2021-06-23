@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 42            | 69                | 12            |
+| 44            | 69                | 12            |
 
 Problems finished
 =================
@@ -16,6 +16,7 @@ Easy
 ----
 
 -	[average-of-levels-in-binary-tree.md](Easy/average-of-levels-in-binary-tree.md)
+-	[backspace-string-compare.md](Easy/backspace-string-compare.md)
 -	[best-time-to-buy-and-sell-stock.md](Easy/best-time-to-buy-and-sell-stock.md)
 -	[binary-tree-level-order-traversal-ii.md](Easy/binary-tree-level-order-traversal-ii.md)
 -	[binary-tree-paths.md](Easy/binary-tree-paths.md)
@@ -32,6 +33,7 @@ Easy
 -	[license-key-formatting.md](Easy/license-key-formatting.md)
 -	[longest-common-prefix.md](Easy/longest-common-prefix.md)
 -	[majority-element.md](Easy/majority-element.md)
+-	[maximum-ascending-subarray-sum.md](Easy/maximum-ascending-subarray-sum.md)
 -	[maximum-depth-of-binary-tree.md](Easy/maximum-depth-of-binary-tree.md)
 -	[maximum-depth-of-n-ary-tree.md](Easy/maximum-depth-of-n-ary-tree.md)
 -	[merge-sorted-array.md](Easy/merge-sorted-array.md)
