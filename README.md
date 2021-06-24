@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 44            | 69                | 12            |
+| 45            | 70                | 12            |
 
 Problems finished
 =================
@@ -48,6 +48,7 @@ Easy
 -	[remove-duplicates-from-sorted-list.md](Easy/remove-duplicates-from-sorted-list.md)
 -	[remove-element.md](Easy/remove-element.md)
 -	[reverse-integer.md](Easy/reverse-integer.md)
+-	[reverse-linked-list.md](Easy/reverse-linked-list.md)
 -	[roman-to-int.md](Easy/roman-to-int.md)
 -	[squares-of-a-sorted-array.md](Easy/squares-of-a-sorted-array.md)
 -	[symmetric-tree.md](Easy/symmetric-tree.md)
