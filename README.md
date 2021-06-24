@@ -113,6 +113,7 @@ Medium
 -	[remove-duplicates-from-sorted-list-ii.md](Medium/remove-duplicates-from-sorted-list-ii.md)
 -	[remove-nth-node-from-end-of-list.md](Medium/remove-nth-node-from-end-of-list.md)
 -	[restore-ip-addresses.md](Medium/restore-ip-addresses.md)
+-	[reverse-linked-list-ii.md](Medium/reverse-linked-list-ii.md)
 -	[rotate-image.md](Medium/rotate-image.md)
 -	[same-tree.md](Medium/same-tree.md)
 -	[search-in-rotated-sorted-array-ii.md](Medium/search-in-rotated-sorted-array-ii.md)
