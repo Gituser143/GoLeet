@@ -7,7 +7,6 @@ Hard
 - [median-of-two-sorted-array.md](Hard/median-of-two-sorted-array.md)
 - [merge-k-sorted-lists.md](Hard/merge-k-sorted-lists.md)
 - [poor-pigs.md](Hard/poor-pigs.md)
-- [README.md](Hard/README.md)
 - [recover-binary-search-tree.md](Hard/recover-binary-search-tree.md)
 - [regular-expression-matching.md](Hard/regular-expression-matching.md)
 - [sliding-window-maximum.md](Hard/sliding-window-maximum.md)
