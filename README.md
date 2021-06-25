@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
 |---------------|-------------------|---------------|
-| 45            | 70                | 12            |
+| 45            | 71                | 12            |
 
 Problems finished
 =================
@@ -102,6 +102,7 @@ Medium
 -	[multiply-strings.md](Medium/multiply-strings.md)
 -	[network-delay-time.md](Medium/network-delay-time.md)
 -	[number-of-matching-subsequences.md](Medium/number-of-matching-subsequences.md)
+-	[out-of-boundary-paths.md](Medium/out-of-boundary-paths.md)
 -	[pairs-of-songs-with-total-durations-divisible-by-60.md](Medium/pairs-of-songs-with-total-durations-divisible-by-60.md)
 -	[path-sum-iii.md](Medium/path-sum-iii.md)
 -	[path-sum-ii.md](Medium/path-sum-ii.md)
