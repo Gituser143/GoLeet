@@ -5,9 +5,9 @@ My collection of leet code problems solved in GoLang!
 
 Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
-| [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
-|---------------|-------------------|---------------|
-| 45            | 71                | 12            |
+| [Easy](Easy/README.md) | [Medium](Medium/README.md) | [Hard](Hard/README.md) |
+|------------------------|----------------------------|------------------------|
+| 45                     | 71                         | 12                     |
 
 Problems finished
 =================

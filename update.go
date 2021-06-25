@@ -15,9 +15,9 @@ My collection of leet code problems solved in GoLang!
 
 Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
-| [Easy](#easy) | [Medium](#medium) | [Hard](#hard) |
-|---------------|-------------------|---------------|
-| %v            | %v                | %v            |
+| [Easy](Easy/README.md) | [Medium](Medium/README.md) | [Hard](Hard/README.md) |
+|------------------------|----------------------------|------------------------|
+| %v                     | %v                         | %v                     |
 
 Problems finished
 =================
@@ -26,11 +26,11 @@ Problems finished
 func main() {
 
 	dirs := []string{"Easy", "Medium", "Hard"}
-	count := []int{}
+	count := []int{0, 0, 0}
 
 	readmeData := ""
 
-	for _, dir := range dirs {
+	for i, dir := range dirs {
 		readmeData += fmt.Sprintf("\n%s\n%s\n\n", dir, strings.Repeat("-", len(dir)))
 
 		// Remove Problem Directory Readme
@@ -44,7 +44,7 @@ func main() {
 		}
 
 		// Get count of files
-		count = append(count, len(files))
+		count[i] = len(files)
 
 		// Populate list of solved problems
 		data := fmt.Sprintf("%s\n%s\n\n", dir, strings.Repeat("=", len(dir)))
