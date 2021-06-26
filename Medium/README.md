@@ -19,6 +19,7 @@ Medium
 - [decode-string.md](Medium/decode-string.md)
 - [decoded-string-at-index.md](Medium/decoded-string-at-index.md)
 - [diagonal-traverse.md](Medium/diagonal-traverse.md)
+- [evaluate-reverse-polish-notation.md](Medium/evaluate-reverse-polish-notation.md)
 - [find-the-most-competitive-subsequence.md](Medium/find-the-most-competitive-subsequence.md)
 - [game-of-life.md](Medium/game-of-life.md)
 - [increasing-triplet-subsequence.md](Medium/increasing-triplet-subsequence.md)

@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](Easy/README.md) | [Medium](Medium/README.md) | [Hard](Hard/README.md) |
 |------------------------|----------------------------|------------------------|
-| 45                     | 71                         | 12                     |
+| 45                     | 72                         | 12                     |
 
 Problems finished
 =================
@@ -82,6 +82,7 @@ Medium
 - [decode-string.md](Medium/decode-string.md)
 - [decoded-string-at-index.md](Medium/decoded-string-at-index.md)
 - [diagonal-traverse.md](Medium/diagonal-traverse.md)
+- [evaluate-reverse-polish-notation.md](Medium/evaluate-reverse-polish-notation.md)
 - [find-the-most-competitive-subsequence.md](Medium/find-the-most-competitive-subsequence.md)
 - [game-of-life.md](Medium/game-of-life.md)
 - [increasing-triplet-subsequence.md](Medium/increasing-triplet-subsequence.md)
