@@ -4,6 +4,7 @@ Hard
 - [binary-tree-maximum-path-sum.md](Hard/binary-tree-maximum-path-sum.md)
 - [candy.md](Hard/candy.md)
 - [create-sorted-array-through-instructions.md](Hard/create-sorted-array-through-instructions.md)
+- [k-similar-strings.md](Hard/k-similar-strings.md)
 - [longest-valid-parenthesis.md](Hard/longest-valid-parenthesis.md)
 - [median-of-two-sorted-array.md](Hard/median-of-two-sorted-array.md)
 - [merge-k-sorted-lists.md](Hard/merge-k-sorted-lists.md)

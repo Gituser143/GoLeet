@@ -30,6 +30,7 @@ Easy
 - [pascals-triangle.md](Easy/pascals-triangle.md)
 - [path-sum.md](Easy/path-sum.md)
 - [range-sum-of-bst.md](Easy/range-sum-of-bst.md)
+- [remove-all-adjacent-duplicates-in-string.md](Easy/remove-all-adjacent-duplicates-in-string.md)
 - [remove-duplicates-from-sorted-array.md](Easy/remove-duplicates-from-sorted-array.md)
 - [remove-duplicates-from-sorted-list.md](Easy/remove-duplicates-from-sorted-list.md)
 - [remove-element.md](Easy/remove-element.md)

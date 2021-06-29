@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](Easy/README.md) | [Medium](Medium/README.md) | [Hard](Hard/README.md) |
 |------------------------|----------------------------|------------------------|
-| 45                     | 72                         | 13                     |
+| 46                     | 72                         | 14                     |
 
 Problems finished
 =================
@@ -44,6 +44,7 @@ Easy
 - [pascals-triangle.md](Easy/pascals-triangle.md)
 - [path-sum.md](Easy/path-sum.md)
 - [range-sum-of-bst.md](Easy/range-sum-of-bst.md)
+- [remove-all-adjacent-duplicates-in-string.md](Easy/remove-all-adjacent-duplicates-in-string.md)
 - [remove-duplicates-from-sorted-array.md](Easy/remove-duplicates-from-sorted-array.md)
 - [remove-duplicates-from-sorted-list.md](Easy/remove-duplicates-from-sorted-list.md)
 - [remove-element.md](Easy/remove-element.md)
@@ -143,6 +144,7 @@ Hard
 - [binary-tree-maximum-path-sum.md](Hard/binary-tree-maximum-path-sum.md)
 - [candy.md](Hard/candy.md)
 - [create-sorted-array-through-instructions.md](Hard/create-sorted-array-through-instructions.md)
+- [k-similar-strings.md](Hard/k-similar-strings.md)
 - [longest-valid-parenthesis.md](Hard/longest-valid-parenthesis.md)
 - [median-of-two-sorted-array.md](Hard/median-of-two-sorted-array.md)
 - [merge-k-sorted-lists.md](Hard/merge-k-sorted-lists.md)
