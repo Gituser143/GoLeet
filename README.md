@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](Easy/README.md) | [Medium](Medium/README.md) | [Hard](Hard/README.md) |
 |------------------------|----------------------------|------------------------|
-| 46                     | 72                         | 14                     |
+| 47                     | 73                         | 14                     |
 
 Problems finished
 =================
@@ -33,6 +33,7 @@ Easy
 - [license-key-formatting.md](Easy/license-key-formatting.md)
 - [longest-common-prefix.md](Easy/longest-common-prefix.md)
 - [majority-element.md](Easy/majority-element.md)
+- [max-consecutive-ones.md](Easy/max-consecutive-ones.md)
 - [maximum-ascending-subarray-sum.md](Easy/maximum-ascending-subarray-sum.md)
 - [maximum-depth-of-binary-tree.md](Easy/maximum-depth-of-binary-tree.md)
 - [maximum-depth-of-n-ary-tree.md](Easy/maximum-depth-of-n-ary-tree.md)
@@ -96,6 +97,7 @@ Medium
 - [longest-palindromic-substring.md](Medium/longest-palindromic-substring.md)
 - [longest-substring-without-repeating-characters.md](Medium/longest-substring-without-repeating-characters.md)
 - [lowest-common-ancestor-of-deepest-leaves.md](Medium/lowest-common-ancestor-of-deepest-leaves.md)
+- [max-consecutive-ones-iii.md](Medium/max-consecutive-ones-iii.md)
 - [max-number-of-k-sum-pairs.md](Medium/max-number-of-k-sum-pairs.md)
 - [maximal-network-rank.md](Medium/maximal-network-rank.md)
 - [merge-intervals.md](Medium/merge-intervals.md)

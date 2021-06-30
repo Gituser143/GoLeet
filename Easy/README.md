@@ -19,6 +19,7 @@ Easy
 - [license-key-formatting.md](Easy/license-key-formatting.md)
 - [longest-common-prefix.md](Easy/longest-common-prefix.md)
 - [majority-element.md](Easy/majority-element.md)
+- [max-consecutive-ones.md](Easy/max-consecutive-ones.md)
 - [maximum-ascending-subarray-sum.md](Easy/maximum-ascending-subarray-sum.md)
 - [maximum-depth-of-binary-tree.md](Easy/maximum-depth-of-binary-tree.md)
 - [maximum-depth-of-n-ary-tree.md](Easy/maximum-depth-of-n-ary-tree.md)

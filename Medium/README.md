@@ -32,6 +32,7 @@ Medium
 - [longest-palindromic-substring.md](Medium/longest-palindromic-substring.md)
 - [longest-substring-without-repeating-characters.md](Medium/longest-substring-without-repeating-characters.md)
 - [lowest-common-ancestor-of-deepest-leaves.md](Medium/lowest-common-ancestor-of-deepest-leaves.md)
+- [max-consecutive-ones-iii.md](Medium/max-consecutive-ones-iii.md)
 - [max-number-of-k-sum-pairs.md](Medium/max-number-of-k-sum-pairs.md)
 - [maximal-network-rank.md](Medium/maximal-network-rank.md)
 - [merge-intervals.md](Medium/merge-intervals.md)
