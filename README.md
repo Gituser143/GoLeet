@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](Easy/README.md) | [Medium](Medium/README.md) | [Hard](Hard/README.md) |
 |------------------------|----------------------------|------------------------|
-| 47                     | 74                         | 14                     |
+| 47                     | 75                         | 14                     |
 
 Problems finished
 =================
@@ -87,6 +87,7 @@ Medium
 - [evaluate-reverse-polish-notation.md](Medium/evaluate-reverse-polish-notation.md)
 - [find-the-most-competitive-subsequence.md](Medium/find-the-most-competitive-subsequence.md)
 - [game-of-life.md](Medium/game-of-life.md)
+- [gray-code.md](Medium/gray-code.md)
 - [increasing-triplet-subsequence.md](Medium/increasing-triplet-subsequence.md)
 - [integer-to-roman.md](Medium/integer-to-roman.md)
 - [kth-largest-element-in-an-array.md](Medium/kth-largest-element-in-an-array.md)
