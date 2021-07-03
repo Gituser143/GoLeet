@@ -23,6 +23,7 @@ Easy
 - [maximum-ascending-subarray-sum.md](Easy/maximum-ascending-subarray-sum.md)
 - [maximum-depth-of-binary-tree.md](Easy/maximum-depth-of-binary-tree.md)
 - [maximum-depth-of-n-ary-tree.md](Easy/maximum-depth-of-n-ary-tree.md)
+- [maximum-subarray.md](Easy/maximum-subarray.md)
 - [merge-sorted-array.md](Easy/merge-sorted-array.md)
 - [merge-two-sorted-lists.md](Easy/merge-two-sorted-lists.md)
 - [minimum-depth-of-binary-tree.md](Easy/minimum-depth-of-binary-tree.md)

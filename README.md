@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](Easy/README.md) | [Medium](Medium/README.md) | [Hard](Hard/README.md) |
 |------------------------|----------------------------|------------------------|
-| 47                     | 76                         | 14                     |
+| 48                     | 77                         | 14                     |
 
 Problems finished
 =================
@@ -37,6 +37,7 @@ Easy
 - [maximum-ascending-subarray-sum.md](Easy/maximum-ascending-subarray-sum.md)
 - [maximum-depth-of-binary-tree.md](Easy/maximum-depth-of-binary-tree.md)
 - [maximum-depth-of-n-ary-tree.md](Easy/maximum-depth-of-n-ary-tree.md)
+- [maximum-subarray.md](Easy/maximum-subarray.md)
 - [merge-sorted-array.md](Easy/merge-sorted-array.md)
 - [merge-two-sorted-lists.md](Easy/merge-two-sorted-lists.md)
 - [minimum-depth-of-binary-tree.md](Easy/minimum-depth-of-binary-tree.md)
@@ -116,6 +117,7 @@ Medium
 - [populating-next-right-pointers-in-each-node-ii.md](Medium/populating-next-right-pointers-in-each-node-ii.md)
 - [populating-next-right-pointers-in-each-node.md](Medium/populating-next-right-pointers-in-each-node.md)
 - [pseudo-palindromic-paths-in-a-binary-tree.md](Medium/pseudo-palindromic-paths-in-a-binary-tree.md)
+- [range-sum-query-2d-immutable.md](Medium/range-sum-query-2d-immutable.md)
 - [redundant-connection.md](Medium/redundant-connection.md)
 - [remove-comments.md](Medium/remove-comments.md)
 - [remove-duplicates-from-sorted-array-ii.md](Medium/remove-duplicates-from-sorted-array-ii.md)
