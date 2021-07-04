@@ -3,6 +3,7 @@ Hard
 
 - [binary-tree-maximum-path-sum.md](Hard/binary-tree-maximum-path-sum.md)
 - [candy.md](Hard/candy.md)
+- [count-vowels-permutation.md](Hard/count-vowels-permutation.md)
 - [create-sorted-array-through-instructions.md](Hard/create-sorted-array-through-instructions.md)
 - [k-similar-strings.md](Hard/k-similar-strings.md)
 - [longest-valid-parenthesis.md](Hard/longest-valid-parenthesis.md)

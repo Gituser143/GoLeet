@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](Easy/README.md) | [Medium](Medium/README.md) | [Hard](Hard/README.md) |
 |------------------------|----------------------------|------------------------|
-| 48                     | 77                         | 14                     |
+| 48                     | 77                         | 15                     |
 
 Problems finished
 =================
@@ -150,6 +150,7 @@ Hard
 
 - [binary-tree-maximum-path-sum.md](Hard/binary-tree-maximum-path-sum.md)
 - [candy.md](Hard/candy.md)
+- [count-vowels-permutation.md](Hard/count-vowels-permutation.md)
 - [create-sorted-array-through-instructions.md](Hard/create-sorted-array-through-instructions.md)
 - [k-similar-strings.md](Hard/k-similar-strings.md)
 - [longest-valid-parenthesis.md](Hard/longest-valid-parenthesis.md)
