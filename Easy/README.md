@@ -8,6 +8,7 @@ Easy
 - [binary-tree-paths.md](Easy/binary-tree-paths.md)
 - [can-place-flowers.md](Easy/can-place-flowers.md)
 - [check-if-two-string-arrays-are-equivalent.md](Easy/check-if-two-string-arrays-are-equivalent.md)
+- [climbing-stairs.md](Easy/climbing-stairs.md)
 - [convert-binary-number-in-linked-list-to-integer.md](Easy/convert-binary-number-in-linked-list-to-integer.md)
 - [find-the-town-judge.md](Easy/find-the-town-judge.md)
 - [flipping-an-image.md](Easy/flipping-an-image.md)
