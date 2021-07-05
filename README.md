@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](Easy/README.md) | [Medium](Medium/README.md) | [Hard](Hard/README.md) |
 |------------------------|----------------------------|------------------------|
-| 49                     | 78                         | 15                     |
+| 50                     | 78                         | 15                     |
 
 Problems finished
 =================
@@ -51,6 +51,7 @@ Easy
 - [remove-duplicates-from-sorted-array.md](Easy/remove-duplicates-from-sorted-array.md)
 - [remove-duplicates-from-sorted-list.md](Easy/remove-duplicates-from-sorted-list.md)
 - [remove-element.md](Easy/remove-element.md)
+- [reshape-the-matrix.md](Easy/reshape-the-matrix.md)
 - [reverse-integer.md](Easy/reverse-integer.md)
 - [reverse-linked-list.md](Easy/reverse-linked-list.md)
 - [roman-to-int.md](Easy/roman-to-int.md)

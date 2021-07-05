@@ -37,6 +37,7 @@ Easy
 - [remove-duplicates-from-sorted-array.md](Easy/remove-duplicates-from-sorted-array.md)
 - [remove-duplicates-from-sorted-list.md](Easy/remove-duplicates-from-sorted-list.md)
 - [remove-element.md](Easy/remove-element.md)
+- [reshape-the-matrix.md](Easy/reshape-the-matrix.md)
 - [reverse-integer.md](Easy/reverse-integer.md)
 - [reverse-linked-list.md](Easy/reverse-linked-list.md)
 - [roman-to-int.md](Easy/roman-to-int.md)
