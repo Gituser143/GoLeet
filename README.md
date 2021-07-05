@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](Easy/README.md) | [Medium](Medium/README.md) | [Hard](Hard/README.md) |
 |------------------------|----------------------------|------------------------|
-| 49                     | 77                         | 15                     |
+| 49                     | 78                         | 15                     |
 
 Problems finished
 =================
@@ -86,6 +86,7 @@ Medium
 - [decode-string.md](Medium/decode-string.md)
 - [decoded-string-at-index.md](Medium/decoded-string-at-index.md)
 - [diagonal-traverse.md](Medium/diagonal-traverse.md)
+- [domino-and-tromino-tiling.md](Medium/domino-and-tromino-tiling.md)
 - [evaluate-reverse-polish-notation.md](Medium/evaluate-reverse-polish-notation.md)
 - [find-k-closest-elements.md](Medium/find-k-closest-elements.md)
 - [find-the-most-competitive-subsequence.md](Medium/find-the-most-competitive-subsequence.md)
