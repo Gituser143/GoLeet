@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](Easy/README.md) | [Medium](Medium/README.md) | [Hard](Hard/README.md) |
 |------------------------|----------------------------|------------------------|
-| 50                     | 79                         | 15                     |
+| 50                     | 80                         | 16                     |
 
 Problems finished
 =================
@@ -121,6 +121,7 @@ Medium
 - [populating-next-right-pointers-in-each-node.md](Medium/populating-next-right-pointers-in-each-node.md)
 - [pseudo-palindromic-paths-in-a-binary-tree.md](Medium/pseudo-palindromic-paths-in-a-binary-tree.md)
 - [range-sum-query-2d-immutable.md](Medium/range-sum-query-2d-immutable.md)
+- [reduce-array-size-to-the-half.md](Medium/reduce-array-size-to-the-half.md)
 - [redundant-connection.md](Medium/redundant-connection.md)
 - [remove-comments.md](Medium/remove-comments.md)
 - [remove-duplicates-from-sorted-array-ii.md](Medium/remove-duplicates-from-sorted-array-ii.md)
@@ -154,6 +155,7 @@ Hard
 
 - [binary-tree-maximum-path-sum.md](Hard/binary-tree-maximum-path-sum.md)
 - [candy.md](Hard/candy.md)
+- [closest-subsequence-sum.md](Hard/closest-subsequence-sum.md)
 - [count-vowels-permutation.md](Hard/count-vowels-permutation.md)
 - [create-sorted-array-through-instructions.md](Hard/create-sorted-array-through-instructions.md)
 - [k-similar-strings.md](Hard/k-similar-strings.md)
