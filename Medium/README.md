@@ -70,6 +70,7 @@ Medium
 - [smallest-subtree-with-all-the-deepest-nodes.md](Medium/smallest-subtree-with-all-the-deepest-nodes.md)
 - [sort-the-matrix-diagonally.md](Medium/sort-the-matrix-diagonally.md)
 - [string-to-integer-atoi.md](Medium/string-to-integer-atoi.md)
+- [subarray-sum-equals-k.md](Medium/subarray-sum-equals-k.md)
 - [sum-root-to-leaf-numbers.md](Medium/sum-root-to-leaf-numbers.md)
 - [swap-nodes-in-pairs.md](Medium/swap-nodes-in-pairs.md)
 - [the-kth-factor-of-n.md](Medium/the-kth-factor-of-n.md)

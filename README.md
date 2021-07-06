@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](Easy/README.md) | [Medium](Medium/README.md) | [Hard](Hard/README.md) |
 |------------------------|----------------------------|------------------------|
-| 50                     | 78                         | 15                     |
+| 50                     | 79                         | 15                     |
 
 Problems finished
 =================
@@ -138,6 +138,7 @@ Medium
 - [smallest-subtree-with-all-the-deepest-nodes.md](Medium/smallest-subtree-with-all-the-deepest-nodes.md)
 - [sort-the-matrix-diagonally.md](Medium/sort-the-matrix-diagonally.md)
 - [string-to-integer-atoi.md](Medium/string-to-integer-atoi.md)
+- [subarray-sum-equals-k.md](Medium/subarray-sum-equals-k.md)
 - [sum-root-to-leaf-numbers.md](Medium/sum-root-to-leaf-numbers.md)
 - [swap-nodes-in-pairs.md](Medium/swap-nodes-in-pairs.md)
 - [the-kth-factor-of-n.md](Medium/the-kth-factor-of-n.md)
