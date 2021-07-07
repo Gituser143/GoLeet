@@ -28,6 +28,7 @@ Medium
 - [increasing-triplet-subsequence.md](Medium/increasing-triplet-subsequence.md)
 - [integer-to-roman.md](Medium/integer-to-roman.md)
 - [kth-largest-element-in-an-array.md](Medium/kth-largest-element-in-an-array.md)
+- [kth-smallest-element-in-a-sorted-matrix.md](Medium/kth-smallest-element-in-a-sorted-matrix.md)
 - [letter-combinations-of-a-phone-number.md](Medium/letter-combinations-of-a-phone-number.md)
 - [linked-list-random-node.md](Medium/linked-list-random-node.md)
 - [longest-absolute-file-path.md](Medium/longest-absolute-file-path.md)
