@@ -40,6 +40,7 @@ Medium
 - [max-consecutive-ones-iii.md](Medium/max-consecutive-ones-iii.md)
 - [max-number-of-k-sum-pairs.md](Medium/max-number-of-k-sum-pairs.md)
 - [maximal-network-rank.md](Medium/maximal-network-rank.md)
+- [maximum-length-of-repeated-subarray.md](Medium/maximum-length-of-repeated-subarray.md)
 - [merge-intervals.md](Medium/merge-intervals.md)
 - [minimum-height-trees.md](Medium/minimum-height-trees.md)
 - [mirror-reflection.md](Medium/mirror-reflection.md)
