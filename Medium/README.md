@@ -32,6 +32,7 @@ Medium
 - [letter-combinations-of-a-phone-number.md](Medium/letter-combinations-of-a-phone-number.md)
 - [linked-list-random-node.md](Medium/linked-list-random-node.md)
 - [longest-absolute-file-path.md](Medium/longest-absolute-file-path.md)
+- [longest-increasing-subsequence.md](Medium/longest-increasing-subsequence.md)
 - [longest-mountain-in-array.md](Medium/longest-mountain-in-array.md)
 - [longest-palindromic-substring.md](Medium/longest-palindromic-substring.md)
 - [longest-substring-without-repeating-characters.md](Medium/longest-substring-without-repeating-characters.md)
