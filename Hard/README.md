@@ -6,6 +6,7 @@ Hard
 - [closest-subsequence-sum.md](Hard/closest-subsequence-sum.md)
 - [count-vowels-permutation.md](Hard/count-vowels-permutation.md)
 - [create-sorted-array-through-instructions.md](Hard/create-sorted-array-through-instructions.md)
+- [decode-ways-ii.md](Hard/decode-ways-ii.md)
 - [k-similar-strings.md](Hard/k-similar-strings.md)
 - [longest-valid-parenthesis.md](Hard/longest-valid-parenthesis.md)
 - [median-of-two-sorted-array.md](Hard/median-of-two-sorted-array.md)
