@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](Easy/README.md) | [Medium](Medium/README.md) | [Hard](Hard/README.md) |
 |------------------------|----------------------------|------------------------|
-| 50                     | 83                         | 17                     |
+| 50                     | 83                         | 18                     |
 
 Problems finished
 =================
@@ -162,6 +162,7 @@ Hard
 - [count-vowels-permutation.md](Hard/count-vowels-permutation.md)
 - [create-sorted-array-through-instructions.md](Hard/create-sorted-array-through-instructions.md)
 - [decode-ways-ii.md](Hard/decode-ways-ii.md)
+- [find-median-from-data-stream.md](Hard/find-median-from-data-stream.md)
 - [k-similar-strings.md](Hard/k-similar-strings.md)
 - [longest-valid-parenthesis.md](Hard/longest-valid-parenthesis.md)
 - [median-of-two-sorted-array.md](Hard/median-of-two-sorted-array.md)
