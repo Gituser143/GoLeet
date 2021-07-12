@@ -15,6 +15,7 @@ Easy
 - [goat-latin.md](Easy/goat-latin.md)
 - [implement-strstr.md](Easy/implement-strstr.md)
 - [increasing-order-search-tree.md](Easy/increasing-order-search-tree.md)
+- [isomorphic-strings.md](Easy/isomorphic-strings.md)
 - [kth-missing-positive-number.md](Easy/kth-missing-positive-number.md)
 - [length-of-last-word.md](Easy/length-of-last-word.md)
 - [license-key-formatting.md](Easy/license-key-formatting.md)
