@@ -22,6 +22,7 @@ Medium
 - [domino-and-tromino-tiling.md](Medium/domino-and-tromino-tiling.md)
 - [evaluate-reverse-polish-notation.md](Medium/evaluate-reverse-polish-notation.md)
 - [find-k-closest-elements.md](Medium/find-k-closest-elements.md)
+- [find-peak-element.md](Medium/find-peak-element.md)
 - [find-the-most-competitive-subsequence.md](Medium/find-the-most-competitive-subsequence.md)
 - [game-of-life.md](Medium/game-of-life.md)
 - [gray-code.md](Medium/gray-code.md)
