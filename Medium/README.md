@@ -16,6 +16,7 @@ Medium
 - [count-servers-that-communicate.md](Medium/count-servers-that-communicate.md)
 - [course-schedule-ii.md](Medium/course-schedule-ii.md)
 - [course-schedule.md](Medium/course-schedule.md)
+- [custom-sort-string.md](Medium/custom-sort-string.md)
 - [decode-string.md](Medium/decode-string.md)
 - [decoded-string-at-index.md](Medium/decoded-string-at-index.md)
 - [diagonal-traverse.md](Medium/diagonal-traverse.md)
