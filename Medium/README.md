@@ -82,6 +82,7 @@ Medium
 - [the-kth-factor-of-n.md](Medium/the-kth-factor-of-n.md)
 - [top-k-frequent-elements.md](Medium/top-k-frequent-elements.md)
 - [valid-sudoku.md](Medium/valid-sudoku.md)
+- [valid-triangle-number.md](Medium/valid-triangle-number.md)
 - [validate-binary-search-tree.md](Medium/validate-binary-search-tree.md)
 - [validate-binary-tree-nodes.md](Medium/validate-binary-tree-nodes.md)
 - [word-frequency.md](Medium/word-frequency.md)
