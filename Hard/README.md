@@ -15,6 +15,7 @@ Hard
 - [poor-pigs.md](Hard/poor-pigs.md)
 - [recover-binary-search-tree.md](Hard/recover-binary-search-tree.md)
 - [regular-expression-matching.md](Hard/regular-expression-matching.md)
+- [reverse-nodes-in-k-group.md](Hard/reverse-nodes-in-k-group.md)
 - [sliding-window-maximum.md](Hard/sliding-window-maximum.md)
 - [the-skyline-problem.md](Hard/the-skyline-problem.md)
 - [trapping-rain-water.md](Hard/trapping-rain-water.md)
