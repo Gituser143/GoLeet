@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](Easy/README.md) | [Medium](Medium/README.md) | [Hard](Hard/README.md) |
 |------------------------|----------------------------|------------------------|
-| 51                     | 86                         | 19                     |
+| 52                     | 86                         | 19                     |
 
 Problems finished
 =================
@@ -34,6 +34,7 @@ Easy
 - [length-of-last-word.md](Easy/length-of-last-word.md)
 - [license-key-formatting.md](Easy/license-key-formatting.md)
 - [longest-common-prefix.md](Easy/longest-common-prefix.md)
+- [lowest-common-ancestor-of-a-binary-search-tree.md](Easy/lowest-common-ancestor-of-a-binary-search-tree.md)
 - [majority-element.md](Easy/majority-element.md)
 - [max-consecutive-ones.md](Easy/max-consecutive-ones.md)
 - [maximum-ascending-subarray-sum.md](Easy/maximum-ascending-subarray-sum.md)

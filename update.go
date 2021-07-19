@@ -50,7 +50,7 @@ func main() {
 		data := fmt.Sprintf("%s\n%s\n\n", dir, strings.Repeat("=", len(dir)))
 		for _, file := range files {
 			row := fmt.Sprintf("- [%s](%s/%s)\n", file.Name(), dir, file.Name())
-			data += row
+			data += strings.ReplaceAll(row, dir+"/", "")
 			readmeData += row
 		}
 
