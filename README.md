@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](Easy/README.md) | [Medium](Medium/README.md) | [Hard](Hard/README.md) |
 |------------------------|----------------------------|------------------------|
-| 52                     | 86                         | 19                     |
+| 52                     | 87                         | 19                     |
 
 Problems finished
 =================
@@ -127,6 +127,7 @@ Medium
 - [populating-next-right-pointers-in-each-node-ii.md](Medium/populating-next-right-pointers-in-each-node-ii.md)
 - [populating-next-right-pointers-in-each-node.md](Medium/populating-next-right-pointers-in-each-node.md)
 - [pseudo-palindromic-paths-in-a-binary-tree.md](Medium/pseudo-palindromic-paths-in-a-binary-tree.md)
+- [push-dominoes.md](Medium/push-dominoes.md)
 - [range-sum-query-2d-immutable.md](Medium/range-sum-query-2d-immutable.md)
 - [reduce-array-size-to-the-half.md](Medium/reduce-array-size-to-the-half.md)
 - [redundant-connection.md](Medium/redundant-connection.md)

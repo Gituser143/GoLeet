@@ -57,6 +57,7 @@ Medium
 - [populating-next-right-pointers-in-each-node-ii.md](populating-next-right-pointers-in-each-node-ii.md)
 - [populating-next-right-pointers-in-each-node.md](populating-next-right-pointers-in-each-node.md)
 - [pseudo-palindromic-paths-in-a-binary-tree.md](pseudo-palindromic-paths-in-a-binary-tree.md)
+- [push-dominoes.md](push-dominoes.md)
 - [range-sum-query-2d-immutable.md](range-sum-query-2d-immutable.md)
 - [reduce-array-size-to-the-half.md](reduce-array-size-to-the-half.md)
 - [redundant-connection.md](redundant-connection.md)
