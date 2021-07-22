@@ -42,6 +42,7 @@ Easy
 - [reshape-the-matrix.md](reshape-the-matrix.md)
 - [reverse-integer.md](reverse-integer.md)
 - [reverse-linked-list.md](reverse-linked-list.md)
+- [reverse-string.md](reverse-string.md)
 - [roman-to-int.md](roman-to-int.md)
 - [squares-of-a-sorted-array.md](squares-of-a-sorted-array.md)
 - [symmetric-tree.md](symmetric-tree.md)
