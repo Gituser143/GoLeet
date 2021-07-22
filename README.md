@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](Easy/README.md) | [Medium](Medium/README.md) | [Hard](Hard/README.md) |
 |------------------------|----------------------------|------------------------|
-| 53                     | 87                         | 19                     |
+| 53                     | 88                         | 19                     |
 
 Problems finished
 =================
@@ -123,6 +123,7 @@ Medium
 - [number-of-matching-subsequences.md](Medium/number-of-matching-subsequences.md)
 - [out-of-boundary-paths.md](Medium/out-of-boundary-paths.md)
 - [pairs-of-songs-with-total-durations-divisible-by-60.md](Medium/pairs-of-songs-with-total-durations-divisible-by-60.md)
+- [partition-array-into-disjoint-intervals.md](Medium/partition-array-into-disjoint-intervals.md)
 - [path-sum-ii.md](Medium/path-sum-ii.md)
 - [path-sum-iii.md](Medium/path-sum-iii.md)
 - [populating-next-right-pointers-in-each-node-ii.md](Medium/populating-next-right-pointers-in-each-node-ii.md)

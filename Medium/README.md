@@ -52,6 +52,7 @@ Medium
 - [number-of-matching-subsequences.md](number-of-matching-subsequences.md)
 - [out-of-boundary-paths.md](out-of-boundary-paths.md)
 - [pairs-of-songs-with-total-durations-divisible-by-60.md](pairs-of-songs-with-total-durations-divisible-by-60.md)
+- [partition-array-into-disjoint-intervals.md](partition-array-into-disjoint-intervals.md)
 - [path-sum-ii.md](path-sum-ii.md)
 - [path-sum-iii.md](path-sum-iii.md)
 - [populating-next-right-pointers-in-each-node-ii.md](populating-next-right-pointers-in-each-node-ii.md)
