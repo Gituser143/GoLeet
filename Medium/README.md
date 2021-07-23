@@ -10,6 +10,7 @@ Medium
 - [binary-tree-level-order-traversal.md](binary-tree-level-order-traversal.md)
 - [binary-tree-postorder-traversal.md](binary-tree-postorder-traversal.md)
 - [binary-tree-preorder-traversal.md](binary-tree-preorder-traversal.md)
+- [binary-tree-pruning.md](binary-tree-pruning.md)
 - [boats-to-save-people.md](boats-to-save-people.md)
 - [clone-graph.md](clone-graph.md)
 - [container-with-most-water.md](container-with-most-water.md)

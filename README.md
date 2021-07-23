@@ -7,7 +7,7 @@ Link to profile, [bhargavsnv100](https://leetcode.com/bhargavsnv100/)
 
 | [Easy](Easy/README.md) | [Medium](Medium/README.md) | [Hard](Hard/README.md) |
 |------------------------|----------------------------|------------------------|
-| 53                     | 88                         | 19                     |
+| 53                     | 89                         | 19                     |
 
 Problems finished
 =================
@@ -81,6 +81,7 @@ Medium
 - [binary-tree-level-order-traversal.md](Medium/binary-tree-level-order-traversal.md)
 - [binary-tree-postorder-traversal.md](Medium/binary-tree-postorder-traversal.md)
 - [binary-tree-preorder-traversal.md](Medium/binary-tree-preorder-traversal.md)
+- [binary-tree-pruning.md](Medium/binary-tree-pruning.md)
 - [boats-to-save-people.md](Medium/boats-to-save-people.md)
 - [clone-graph.md](Medium/clone-graph.md)
 - [container-with-most-water.md](Medium/container-with-most-water.md)
